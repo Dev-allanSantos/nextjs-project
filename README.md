@@ -23,3 +23,7 @@ Depois de dez segundos
 
 ![pagina2](./images/pagina2.png)
 
+
+### Referências
+
+[cod3r](https://www.youtube.com/watch?v=TzufYnZUmz4 )
