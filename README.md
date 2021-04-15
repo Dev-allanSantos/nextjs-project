@@ -11,4 +11,6 @@ Um único componente foi criado (componente Estatico). Este renderiza o valor fo
 
 ![code](./images/code.png)
 
-A função get
+A função getStaticProps gera o conteúdo estático que é consumido pelo componente Estatico
+
+
