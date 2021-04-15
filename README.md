@@ -7,6 +7,8 @@ Páginas estáticas aumentam o desempenho de resposta da sua aplicação na medi
 
 Neste exemplo, é criado uma página estática , onde um componente renderiza um valor localizado em um arquivo JSON (Backend). Esse valor é gerado aleatoriamente e ele é atualizado no arquivo JSON a cada dez segundos.
 
-Um único componente foi criado (componente Estatico). Este renderiza o valor fornecido pelo JSON. Todo o conteudo deste componente é recebido através de props.
+Um único componente foi criado (componente Estatico). Este renderiza o valor fornecido pelo JSON. Todo o conteudo deste componente é recebido através de props. Quem é responsável por gerar o conteúdo deste componente ?
 
 ![code](./images/code.png)
+
+A função get
