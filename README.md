@@ -13,4 +13,8 @@ Um único componente foi criado (componente Estatico). Este renderiza o valor fo
 
 A função getStaticProps gera o conteúdo estático que é consumido pelo componente Estatico
 
+![pagina](./images/pagina.png)
+
+Depois de dez segundos
+![pagina2](./images/pagina2.png)
 
