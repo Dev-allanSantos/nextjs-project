@@ -9,4 +9,4 @@ Neste exemplo, é criado uma página estática , onde um componente renderiza um
 
 Um único componente foi criado (componente Estatico). Este renderiza o valor fornecido pelo JSON. Todo o conteudo deste componente é recebido através de props.
 
-[code](./images/code.png)
+![code](./images/code.png)
